@@ -1,3 +1,5 @@
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ20xMHByd2RsYm5vaTRyOW15Z21mYmhyNGgzNm50NmQ0N2FqZGc1ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sE1fbQPozKg3q5I2W2/giphy.gif
+
 <h1 align="center">Hi 👋, i am Jimmy-lee Daume</h1>
 <h3 align="center">Junior Developer with a Focus on Cybersecurity Expertise</h3>
 
