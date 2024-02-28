@@ -1,5 +1,4 @@
-
-![giphy](https://github.com/Daumejimmy/Daumejimmy/assets/160715220/54946704-5c30-4635-adf5-4d10ce4fa7d3)
+<iframe src="https://giphy.com/embed/SvFocn0wNMx0iv2rYz" width="480" height="480" frameBorder="0" class="giphy-embed" 
 
 <h1 align="center">Hi 👋, i am Jimmy-lee Daume</h1>
 <h3 align="center">Junior Developer with a Focus on Cybersecurity Expertise</h3>
@@ -72,4 +71,5 @@
 
 This comprehensive training program equipped me with a diverse skill set, covering essential aspects of Cloud Computing and DevOps. It included hands-on experience with AWS, proficiency in infrastructure automation tools like Terraform and Ansible, and expertise in implementing Agile methodologies for software development. The program also emphasized cloud monitoring, metrics, and continuous integration, ensuring a well-rounded understanding of modern DevOps practices. The successful completion of the program was marked by achieving the "IT Specialist in Cloud Computing and DevOps" certification.
 
+![giphy](https://github.com/Daumejimmy/Daumejimmy/assets/160715220/f65adb38-10b6-4e22-951c-0c41c6eb99e1)
 
