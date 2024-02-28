@@ -1,4 +1,4 @@
-![pikachu](https://github.com/Daumejimmy/Daumejimmy/assets/160715220/69f535a7-8e57-428a-be41-1d5d1fe2a5d3)
+
 
 
 <h1 align="center">Hi 👋, i am Jimmy-lee Daume</h1>
