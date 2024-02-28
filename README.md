@@ -1,4 +1,5 @@
 
+![giphy](https://github.com/Daumejimmy/Daumejimmy/assets/160715220/54946704-5c30-4635-adf5-4d10ce4fa7d3)
 
 <h1 align="center">Hi 👋, i am Jimmy-lee Daume</h1>
 <h3 align="center">Junior Developer with a Focus on Cybersecurity Expertise</h3>
